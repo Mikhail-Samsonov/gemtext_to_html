@@ -1,0 +1,3 @@
+/home/mesam/sandbox/kaspersky/generator/build/CMakeFiles/rebuild_cache.dir
+/home/mesam/sandbox/kaspersky/generator/build/CMakeFiles/edit_cache.dir
+/home/mesam/sandbox/kaspersky/generator/build/CMakeFiles/generator.dir
